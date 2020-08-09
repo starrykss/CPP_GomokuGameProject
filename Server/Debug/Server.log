@@ -1,0 +1,8 @@
+﻿  Server.cpp
+C:\Users\kss34\source\repos\Gomoku Project\Server\Server.h(29,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Server' 왼쪽은 무시됩니다.
+C:\Users\kss34\source\repos\Gomoku Project\Server\Server.cpp(27,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kss34\source\repos\Gomoku Project\Server\Server.cpp(44,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kss34\source\repos\Gomoku Project\Server\Server.cpp(54,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kss34\source\repos\Gomoku Project\Server\Server.cpp(65,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kss34\source\repos\Gomoku Project\Server\Server.cpp(148,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Server.vcxproj -> C:\Users\kss34\source\repos\Gomoku Project\Debug\Server.exe
