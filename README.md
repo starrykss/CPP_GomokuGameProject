@@ -6,9 +6,9 @@
 - IDE : Microsoft Visual Studio 2019 16.4
 
 ### 기능 설명
-- 혼자 하기 기능 구현
-- 함께 하기 기능 구현 (서버를 이용한 멀티 플레이)
-- 인공지능 연습 기능 구현 (Alpha-Beta Prunning 알고리즘 적용)
+- 혼자 하기 기능
+- 함께 하기 기능 (서버를 이용한 멀티 플레이)
+- 인공지능 연습 기능 (Alpha-Beta Prunning 알고리즘 적용)
 
 ### 프로그램 실행 방법
 - Gomoku Project\Debug 디렉터리에 있는 `Server.exe` 프로그램 실행
