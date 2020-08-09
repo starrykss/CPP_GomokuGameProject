@@ -2,6 +2,7 @@
 [2020-08-01 ~ 2020-08-09] Gomoku Game Project with C++ and C#
 
 ### 프로그램 개발 환경
+- Language : C++, C#
 - OS : Microsoft Windows 10
 - IDE : Microsoft Visual Studio 2019 16.4
 
