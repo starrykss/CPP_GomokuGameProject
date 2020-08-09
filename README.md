@@ -11,8 +11,8 @@
 - 인공지능 연습 기능 (Alpha-Beta Prunning 알고리즘 적용)
 
 ### 프로그램 실행 방법
-- Gomoku Project\Debug 디렉터리에 있는 `Server.exe` 프로그램 실행
-- Gomoku Project\Client\bin\Release(or Release) 디렉터리에 있는 `Client.exe` 프로그램 실행
+- `Gomoku Project\Debug` 디렉터리에 있는 `Server.exe` 프로그램 실행
+- `Gomoku Project\Client\bin\Release(or Release)` 디렉터리에 있는 `Client.exe` 프로그램 실행
 
 ### 실행 화면
 
