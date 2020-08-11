@@ -1,4 +1,4 @@
-# CPP_Gomoku-Game-Project
+# CPP_Gomoku Game Project
 [2020-08-01 ~ 2020-08-09] Gomoku Game Project with C++ and C#
 
 ### 프로그램 개발 환경
